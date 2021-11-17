@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tutinoko_kusaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutinoko_kusaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/retoruto9900k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="retoruto9900k" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCJATjksbKV4suknaAjJQHlQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="retoruto9900k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
