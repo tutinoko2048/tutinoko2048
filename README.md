@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm tutinoko2048</h1>
+
+![](https://komarev.com/ghpvc/?username=tutinoko2048&style=flat-square)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tutinoko_kusaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutinoko_kusaa" height="30" width="40" /></a>
