@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="690" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="777" class="">
     <defs>
         <style/>
     </defs>
@@ -225,6 +225,62 @@
                                     </div>
                                 </div>
                                 <div class="details">
+                                    <div>on branch <span class="code">feat/ench-select-slot</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c8b8f04</div>
+                                        <div class="message">feat: アイコン/アイテム名表示, gridを使用</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/ench-select-slot</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c4cc50c</div>
+                                        <div class="message">feat: エンチャント時のスロット選択機能を実装(kari)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#046b032</div>
+                                        <div class="message">ActionForm.typeの指定方法を変更</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5bfa8c</div>
+                                        <div class="message">春アプデ修正Ⅴ</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8f3e05</div>
+                                        <div class="message">春アプデ修正④</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ca16ba</div>
+                                        <div class="message">春アプデ修正③</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
+                                    </div>
+                                </div>
+                                <div class="details">
                                     <div>on branch <span class="code">spring-update-2024</span></div>
                                     <div class="commit">
                                         <div class="sha">#046b032</div>
@@ -267,52 +323,12 @@ To share transpiled files</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tutinoko2048/TNAntiCheat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rewrite</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#20d9b8e</div>
-                                        <div class="message">chore: remove unused plugin</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tutinoko2048/TNAntiCheat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rewrite</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bdb1b45</div>
-                                        <div class="message">fix: patch paths option to eslint</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2024, 14:19:37 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2024, 15:22:14 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
