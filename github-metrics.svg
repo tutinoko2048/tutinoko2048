@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="753" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1190" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3750 Commits
+                            3761 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -220,6 +220,138 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 14 commits in
+                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#be5f6db</div>
+                                        <div class="message">fix: fireballを頭から発射</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ca6be2</div>
+                                        <div class="message">fix: トランスパイル忘れてました</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ae9651</div>
+                                        <div class="message">fix: Vec3だけ持ってきた</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ac6d0b</div>
+                                        <div class="message">rename: mts→ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14e311d</div>
+                                        <div class="message">remove: node用ファイルを削除</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7731e6d</div>
+                                        <div class="message">improve: 計算にVec3を使う</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c9287d</div>
+                                        <div class="message">fix: 型エラーを修正</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff61d4d</div>
+                                        <div class="message">fix: エラーを追加修正</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99ca01f</div>
+                                        <div class="message">remove: @minecraft/mathライブラリを削除</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4708bd</div>
+                                        <div class="message">feat: Vector, エンチャント関連の変更に対応</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6584850</div>
+                                        <div class="message">update: 型定義, バージョンの更新</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e707c12</div>
+                                        <div class="message">お知らせ機能用</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15b28c9</div>
+                                        <div class="message">エラー修正</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#994a3d8</div>
+                                        <div class="message">地震情報に対応（ベータ）</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#be5f6db</div>
+                                        <div class="message">fix: fireballを頭から発射</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ca6be2</div>
+                                        <div class="message">fix: トランスパイル忘れてました</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ae9651</div>
+                                        <div class="message">fix: Vec3だけ持ってきた</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ac6d0b</div>
+                                        <div class="message">rename: mts→ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14e311d</div>
+                                        <div class="message">remove: node用ファイルを削除</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7731e6d</div>
+                                        <div class="message">improve: 計算にVec3を使う</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c9287d</div>
+                                        <div class="message">fix: 型エラーを修正</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff61d4d</div>
+                                        <div class="message">fix: エラーを追加修正</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99ca01f</div>
+                                        <div class="message">remove: @minecraft/mathライブラリを削除</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4708bd</div>
+                                        <div class="message">feat: Vector, エンチャント関連の変更に対応</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6584850</div>
+                                        <div class="message">update: 型定義, バージョンの更新</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">SKYNETWORK-MCBE/behavior</span>
                                     </div>
@@ -273,56 +405,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">support-1.20.80</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8ac6d0b</div>
-                                        <div class="message">rename: mts→ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14e311d</div>
-                                        <div class="message">remove: node用ファイルを削除</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">support-1.20.80</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7731e6d</div>
-                                        <div class="message">improve: 計算にVec3を使う</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2024, 21:38:52 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Apr 2024, 22:24:46 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
