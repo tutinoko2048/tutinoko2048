@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="707" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1016" class="">
     <defs>
         <style/>
     </defs>
@@ -220,6 +220,110 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fa2d81c</div>
+                                        <div class="message">chore(tsconfig): targetのバージョンを変更</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9ce680</div>
+                                        <div class="message">lint: add type check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0232e66</div>
+                                        <div class="message">chore: まだsourceMapは使わない</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ba3fdf</div>
+                                        <div class="message">chore: move discord-api-types definition</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3f2dcb</div>
+                                        <div class="message">fix: eew-id checker</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f6d8c7</div>
+                                        <div class="message">refactor: TSに対応</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bb13eb</div>
+                                        <div class="message">chore(PlayerCache): TSに移行</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d576733</div>
+                                        <div class="message">chore(events): TSに移行</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c8acbc</div>
+                                        <div class="message">chore(ActionForm): TSに移行</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e6f47b</div>
+                                        <div class="message">chore(database): TSに移行</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e83709c</div>
+                                        <div class="message">chore: 不要なjs,dtsファイルを削除</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36a3dd4</div>
+                                        <div class="message">fix: gh-actionとeslintの対象パスを変更</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e44c168</div>
+                                        <div class="message">fix(eew): 型エラーを修正</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df439c0</div>
+                                        <div class="message">fix: 型エラーの修正</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e74075b</div>
+                                        <div class="message">chore: 環境整備2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aea1b56</div>
+                                        <div class="message">chore: 環境整備</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd0cbda</div>
+                                        <div class="message">rename: scripts→src</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ts-support</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dd53ddf</div>
+                                        <div class="message">chore(tsconfig): targetのバージョンを変更</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">tutinoko2048/BedrockServerLauncher</span>
                                     </div>
@@ -270,52 +374,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ts-support</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b325afe</div>
-                                        <div class="message">lint: add type check</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SKYNETWORK-MCBE/behavior</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">ts-support</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eccc4f8</div>
-                                        <div class="message">chore: まだsourceMapは使わない</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2024, 20:14:52 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2024, 21:34:46 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
