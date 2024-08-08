@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="976" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1110" class="">
     <defs>
         <style/>
     </defs>
@@ -220,6 +220,98 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">tutinoko2048/vanilla-proxy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6f6742d</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a632a8</div>
+                                        <div class="message">Update proxy.go</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19ab161</div>
+                                        <div class="message">Fix name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a2fc6c</div>
+                                        <div class="message">fix asset path</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#191252e</div>
+                                        <div class="message">Create a Linux Executable too</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7e6223</div>
+                                        <div class="message">Update Gophertunnel to v1.39.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e12cc96</div>
+                                        <div class="message">Remove Port and Merge with Host</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca80cc1</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4effb4</div>
+                                        <div class="message">Remove Unused Code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4ea10e</div>
+                                        <div class="message">Create config.toml.example</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#687cf9e</div>
+                                        <div class="message">Remove Error Log Configuration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb0b182</div>
+                                        <div class="message">Remove Bot &amp; RCON</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60b4d8c</div>
+                                        <div class="message">Remove Command manager</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c033d22</div>
+                                        <div class="message">Remove OPs from config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6236a0</div>
+                                        <div class="message">Update player_input_handler.go</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eda9535</div>
+                                        <div class="message">Remove world seed from being sent</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53a02dd</div>
+                                        <div class="message">Properly map error messages when failing to connect</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14d8b95</div>
+                                        <div class="message">Fix data reset when switching devices</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a82021f</div>
+                                        <div class="message">Update Gopher tunnel fork</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">tutinoko2048/vanilla-proxy</span>
                                     </div>
@@ -314,72 +406,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">tutinoko2048/vanilla-proxy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ca7ec56</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1505678</div>
-                                        <div class="message">Remove Unused Code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da827b7</div>
-                                        <div class="message">Create config.toml.example</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6d87d0</div>
-                                        <div class="message">Remove Error Log Configuration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92c6e9a</div>
-                                        <div class="message">Remove Bot &amp; RCON</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c2f689</div>
-                                        <div class="message">Remove Command manager</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3ce3fc</div>
-                                        <div class="message">Remove OPs from config</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12fac8f</div>
-                                        <div class="message">Update player_input_handler.go</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc9b4b5</div>
-                                        <div class="message">Remove world seed from being sent</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e423bca</div>
-                                        <div class="message">Fix data reset when switching devices</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c01d717</div>
-                                        <div class="message">Update Gopher tunnel fork</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2024, 17:25:34 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2024, 18:21:33 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
