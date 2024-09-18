@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="887" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="986" class="">
     <defs>
         <style/>
     </defs>
@@ -220,6 +220,50 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">SKYNETWORK-MCBE/backend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/eew</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#af50b9e</div>
+                                        <div class="message">feat(eew): Discordへの緊急地震速報の送信</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3763b62</div>
+                                        <div class="message">feat: add latitude and longitude fields</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#747e5bf</div>
+                                        <div class="message">fix: 時刻のparse時にタイムゾーンを考慮する</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3800ef7</div>
+                                        <div class="message">feat(eew): WarnDataクラスと送信用の型を作成</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb50a46</div>
+                                        <div class="message">fix(eew): 最大と最小震度が逆だった</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6cedd2</div>
+                                        <div class="message">feat(eew): 警報地域のマージ処理</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15e0721</div>
+                                        <div class="message">refactor(eew): handleData→onReceive</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">SKYNETWORK-MCBE/behavior</span>
                                     </div>
@@ -336,36 +380,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">tutinoko2048/TNAntiCheat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ebf99f6</div>
-                                        <div class="message">update: v3.16.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42ba39c</div>
-                                        <div class="message">chore: update deps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2024, 15:30:47 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2024, 16:20:15 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
