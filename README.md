@@ -8,7 +8,7 @@
   </a>
 <!--   <img width="12" /> -->
   <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" align="left" />
   </a>
 <!--   <img width="12" /> -->
   <a href="https://nodejs.org">
