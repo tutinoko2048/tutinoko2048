@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="757" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="670" class="">
     <defs>
         <style/>
     </defs>
@@ -220,6 +220,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">tutinoko2048/TNAntiCheat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bf78f2c</div>
+                                        <div class="message">update: v3.23.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e88514</div>
+                                        <div class="message">fix: update permission level to admin and revert /op changes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">tutinoko2048/TNAntiCheat</span>
                                     </div>
@@ -284,59 +308,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">Sarf-Esports/studio-website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4ae452c</div>
-                                        <div class="message">Merge pull request #22 from Sarf-Esports/dev
-
-Tweetアセットタイプの実装, WORKを追加</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd29d25</div>
-                                        <div class="message">add: WORKを追加
-- 99DIVINE様 ロスター発表映像</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#880f7fe</div>
-                                        <div class="message">Merge pull request #21 from Sarf-Esports/feat/new-tweet-asset
-
-feat(works): Tweet Assetを追加</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#295ba60</div>
-                                        <div class="message">fix: タイムアウト処理を改善</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#748d201</div>
-                                        <div class="message">feat(works): Tweet Assetを追加</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5404567</div>
-                                        <div class="message">chore: favicon.icoを追加
-
-検索結果やその他場面で `/favicon.ico` が直接参照されることがあるため。</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2025, 06:24:14 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2025, 07:25:10 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
