@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="860" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="791" class="">
     <defs>
         <style/>
     </defs>
@@ -220,6 +220,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Sarf-Esports/kawasemi</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d923bc0</div>
+                                        <div class="message">feat: add /list, improve subscribe logic</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">Sarf-Esports/studio-website</span>
                                     </div>
@@ -301,58 +321,12 @@ WORKの追加と修正</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">Sarf-Esports/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6ee177d</div>
-                                        <div class="message">🔀 Merge pull request #263 from Sarf-Esports/dev
-
-# v2.5.54
-
-## Member Updates
-
-- 🔥 Remove: Marvel Rivals division [be5935a8b2ae1501fe5caeb3bcf804b85d78a2a5]
-
-## New Articles
-
-- ✨ article 20250910 [d0ddccd655e1aa73c098b655e03d97033526c5db]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21a1aac</div>
-                                        <div class="message">🩹 Fix: add missing newline</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6b6668</div>
-                                        <div class="message">🔖 Chore: bump version to v2.5.54</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be5935a</div>
-                                        <div class="message">🔥 Remove: Marvel Rivals division</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0ddccd</div>
-                                        <div class="message">✨ Feat: add article 20250910</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2025, 00:20:46 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2025, 01:25:06 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
